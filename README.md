@@ -1,7 +1,7 @@
 # THREAD-ONLY-SEARCH
 Thread only search is a search algorithm i came up to overcome the problems that we face using DFS(depth first search) and BFS(Breadth first search) algorithms
 
-## The problems encountered using BFS AND DFS are
+## The problems encountered using BFS AND DFS
 1>Takes Long time for search all nodes present
 2>Cant handle edge cases
 3>May result in infinite loop
